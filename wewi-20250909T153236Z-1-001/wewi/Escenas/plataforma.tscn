@@ -1,6 +1,6 @@
-[gd_scene load_steps=3 format=3 uid="uid://bte5w24cpmlwy"]
+[gd_scene load_steps=3 format=3 uid="uid://cph3ih1ic2thh"]
 
-[ext_resource type="Texture2D" uid="uid://cdrd3o526sik2" path="res://Rocky Roads/Objects/ladder.png" id="1_hgmvb"]
+[ext_resource type="Texture2D" path="res://Rocky Roads/Objects/ladder.png" id="1_hgmvb"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_7tip4"]
 size = Vector2(48, 8)

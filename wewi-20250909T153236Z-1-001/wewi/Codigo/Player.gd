@@ -11,7 +11,7 @@ var salto_buffering : bool = false
 
 
 #esto es el coyote time pibes
-var coyote_tiempo = 1.0
+var coyote_tiempo = 0.3
 var coyote_tiempo_acabado = 0.0
 
 #esto es el buffer o como se escriba xd

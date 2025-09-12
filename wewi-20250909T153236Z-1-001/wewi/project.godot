@@ -11,12 +11,13 @@ config_version=5
 [application]
 
 config/name="wewi"
+run/main_scene="uid://djmsi7q1gjq4t"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
 
 [autoload]
 
-Musica="*res://Escenas/musica.tscn"
+Musica="*res://musica/musica.tscn"
 Gameaudio="*res://Escenas/gameaudio.tscn"
 
 [layer_names]

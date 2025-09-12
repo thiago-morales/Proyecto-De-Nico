@@ -1,7 +1,7 @@
-[gd_scene load_steps=3 format=3 uid="uid://cm4bi7tvd1tjq"]
+[gd_scene load_steps=3 format=3 uid="uid://dki7q0yp1dck3"]
 
 [ext_resource type="Script" uid="uid://dygwx3dblv5n" path="res://Codigo/pinchos.gd" id="1_gex0h"]
-[ext_resource type="Texture2D" uid="uid://hbg0mqpe45bi" path="res://Rocky Roads/Enemies/spikes.png" id="1_h62kx"]
+[ext_resource type="Texture2D" path="res://Rocky Roads/Enemies/spikes.png" id="1_h62kx"]
 
 [node name="Pinchos" type="Area2D"]
 collision_mask = 2

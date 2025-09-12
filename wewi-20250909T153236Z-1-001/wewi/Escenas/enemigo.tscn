@@ -1,7 +1,7 @@
-[gd_scene load_steps=12 format=3 uid="uid://e563y5gtd6j7"]
+[gd_scene load_steps=12 format=3 uid="uid://26a6ejbuevkg"]
 
 [ext_resource type="Script" uid="uid://buop0q7y10mco" path="res://Codigo/enemigo.gd" id="1_24lda"]
-[ext_resource type="Texture2D" uid="uid://dt760rachehxe" path="res://Rocky Roads/Enemies/slime_blue.png" id="1_x0nhg"]
+[ext_resource type="Texture2D" path="res://Rocky Roads/Enemies/slime_blue.png" id="1_x0nhg"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_24lda"]
 atlas = ExtResource("1_x0nhg")

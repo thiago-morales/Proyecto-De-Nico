@@ -9,6 +9,7 @@ func _ready():
 	timer.autostart = true
 	timer.connect("timeout", Callable(self, "_on_timer_timeout"))
 	timer.start()
-
+	
+	#esto es lo que parpadea
 func _on_timer_timeout():
 	visible = not visible
